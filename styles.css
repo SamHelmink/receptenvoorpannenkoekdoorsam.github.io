@@ -1,0 +1,13 @@
+body {
+	background-image: url(achtergrond.jpg);
+	background-size: 200px
+}
+h1 {
+	font-size: 80px;
+	font-family: impact;}
+h2 {
+	font-size: 50px;
+	font-family: impact;}
+p {
+	font-size: 40px;
+	font-family: georgia;}
