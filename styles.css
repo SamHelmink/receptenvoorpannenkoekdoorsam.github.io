@@ -1,7 +1,9 @@
 body {
 	background-image: url(achtergrond.jpg);
-	background-size: 200px
-}
+	background-size: 200px;
+	text-align: center;
+
+	}
 h1 {
 	font-size: 80px;
 	font-family: impact;}
